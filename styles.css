@@ -23,6 +23,7 @@ header {
 nav {
     display: flex;
     align-items: center;
+    border: 1px solid red;
 }
 
 .menu_btn {
@@ -36,7 +37,8 @@ nav {
 }
 
 .bx {
-    justify-self: end;
+    display: flex;
+    justify-content: center;
     border: 1px solid red;
 }
 
