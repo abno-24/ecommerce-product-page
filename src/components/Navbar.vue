@@ -15,6 +15,7 @@
         <div class="flex justify-between items-center gap-6">
           <div class="mt-2">
             <span class="material-symbols-outlined"> shopping_cart </span>
+            <span>3</span>
           </div>
           <div>
             <a href="#">
