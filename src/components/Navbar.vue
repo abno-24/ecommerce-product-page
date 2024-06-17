@@ -15,7 +15,10 @@
         <div class="flex justify-between items-center gap-6">
           <div class="mt-2">
             <span class="material-symbols-outlined"> shopping_cart </span>
-            <span>3</span>
+            <span
+              class="absolute border border-red-400 rounded-2xl text-white bg-primary px-2 py-0 right-16 top-5 text-[10px]"
+              >3</span
+            >
           </div>
           <div>
             <a href="#">
